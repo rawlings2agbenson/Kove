@@ -435,3 +435,9 @@ const styles = {
   },
   optionBtnActive: {
     background: "#00e5a0", border: "1px solid #00e5a0",
+        }
+  }
+};
+
+export default App;
+
